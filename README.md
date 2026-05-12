@@ -39,7 +39,7 @@ An advanced, live-tracking application built with Python and Flet (v0.80+). This
 
 * `iss_track.py`: Contains the main application logic, the background threading loop, and the reactive UI components.
 
-## Potential Enhancements
+## Potential Enhancements coming soon
 * **Reverse Geocoding:** Integrate an API to display the name of the country or ocean the ISS is currently flying over.
 * **Crew Information:** Add a section to show how many people are currently on board the ISS.
 * **Overhead Alerts:** Use the user's location to notify them when the ISS is about to pass over their city.
