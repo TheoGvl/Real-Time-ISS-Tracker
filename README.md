@@ -14,7 +14,7 @@ An advanced, live-tracking application built with Python and Flet (v0.80+). This
 
 * **Language:** Python 3.x
 * **UI Framework:** Flet Utilizing modern `ft.Icons`, `ft.Colors`, and `ft.BoxFit` syntax.
-* **Concurrency:** `threading` (for background tasks).
+* **Concurrency:** `threading` for background tasks.
 * **Networking:** `requests` library.
 * **External API:** [Open Notify ISS API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/).
 
@@ -36,7 +36,6 @@ An advanced, live-tracking application built with Python and Flet (v0.80+). This
     ```
 
 ## Project Structure
-
 * `iss_track.py`: Contains the main application logic, the background threading loop, and the reactive UI components.
 
 ## Potential Enhancements coming soon
